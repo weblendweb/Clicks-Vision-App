@@ -6,10 +6,10 @@
         id        = "in.clicksvision.app"
         version   = "1.0.0">
 
-    <name>Clicks Vision</name>
+    <name>Malda Kart</name>
 
     <description>
-        Clicks Vision Application.
+        Malda Kart Application.
     </description>
 
     <author href="http://www.weblendweb.com" email="weblendweb@gmail.com">
@@ -17,7 +17,7 @@
     </author>
 
     <!-- Define the main entry-point to the application -->
-    <content src="http://www.clicksvision.in" />
+    <content src="http://themetrademark.com/demo/quickfoodnew/" />
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="DisallowOverscroll"         value="true" />
